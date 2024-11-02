@@ -4,18 +4,18 @@ A Discord bot that uses RAG (Retrieval-Augmented Generation) via web scraping to
 
 ## Description:
     
-    This Discord bot uses the LangChain library to create a question-answering system.
-    It uses the Hugging Face Hub to download pre-trained models and embeddings,
-    and integrates with the Qdrant vector database for efficient search.
-    The bot also supports multi-step reasoning, allowing users to ask questions
-    that require multiple pieces of information from different sources. It also lists the citations used for the information
+This Discord bot uses the LangChain library to create a question-answering system.
+It uses the Hugging Face Hub to download pre-trained models and embeddings,
+and integrates with the Qdrant vector database for efficient search.
+The bot also supports multi-step reasoning, allowing users to ask questions
+that require multiple pieces of information from different sources. It also lists the citations used for the information
 
-    The bot also supports natural language inference (NLI) using the
-    Google Generative AI model. To use NLI, you must provide a
-    question and two options, and the bot will generate a third option
-    that is most likely to be the correct answer.
+The bot also supports natural language inference (NLI) using the
+Google Generative AI model. To use NLI, you must provide a
+question and two options, and the bot will generate a third option
+that is most likely to be the correct answer.
 
-    The current use for this bot is to provide answers to questions regarding arizona state university 
+The current use for this bot is to provide answers to questions regarding arizona state university 
 
 ## Workflow
 

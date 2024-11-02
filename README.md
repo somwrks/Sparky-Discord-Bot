@@ -19,6 +19,8 @@ The current use for this bot is to provide answers to questions regarding arizon
 
 ## Workflow
 
+![image](https://github.com/user-attachments/assets/6d79c439-ca05-4eed-ae1c-becc99e6cb37)
+
 - The bot starts by connecting to the Qdrant vector database.
 - It then retrieves relevant documents from the database using the ASU University's search terms.
 - The bot uses the Hugging Face pipeline to generate answers based on the retrieved documents.

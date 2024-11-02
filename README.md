@@ -60,19 +60,3 @@ The bot can be used in Discord servers to:
 - Generate natural language inferences
 - Cite sources for provided information
 
-## Development Status
-
-This is a public repository with:
-- Jupyter Notebook implementation
-- 2 commits
-- No releases published
-- No packages published
-- 0 stars and 0 forks
-
-## License
-
-Please refer to the repository for license information[1][2].
-
-Citations:
-[1] https://github.com/somwrks/Sparky-Discord-Bot
-[2] https://github.com/somwrks/Sparky-Discord-Bot

@@ -71,3 +71,8 @@ The bot can be used in Discord servers to:
 - Generate natural language inferences
 - Cite sources for provided information
 
+## Current Todos-
+
+- [ ]  Optimize speed and performance
+- [ ]  have better logging at every place
+- [ ]  add other verification features

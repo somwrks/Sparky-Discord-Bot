@@ -19,7 +19,7 @@ that is most likely to be the correct answer.
 
 The current use for this bot is to provide answers to questions regarding arizona state university 
 
-## Workflow
+## Technical Workflow
 
 ![image](https://github.com/user-attachments/assets/6d79c439-ca05-4eed-ae1c-becc99e6cb37)
 
@@ -54,6 +54,7 @@ The current use for this bot is to provide answers to questions regarding arizon
 - Qdrant vector database
 - Google Generative AI for NLI
 - Discord.py for bot functionality
+- BeautifulSoup for WebScraping along with Google Search Engine
 
 ## Setup
 

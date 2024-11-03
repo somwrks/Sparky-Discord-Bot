@@ -2,6 +2,8 @@
 
 A Discord bot that uses RAG (Retrieval-Augmented Generation) via web scraping to provide specific answers about Arizona State University.
 
+https://github.com/user-attachments/assets/1c380302-7fb4-4025-acfc-09840b42017d
+
 ## Description:
     
 This Discord bot uses the LangChain library to create a question-answering system.
@@ -30,6 +32,12 @@ The current use for this bot is to provide answers to questions regarding arizon
 
 
 ## Features
+
+![{7F674D52-3D85-48C9-9EF4-9D7DD2BFF9AA}](https://github.com/user-attachments/assets/7b1e0966-cd73-4779-b928-6850358d93ad)
+![image](https://github.com/user-attachments/assets/b81a4c26-e32d-43b3-b360-f4bbbb7847a7)
+![image](https://github.com/user-attachments/assets/b1bdb741-20ee-4619-9cff-8ea728e696bb)
+![image](https://github.com/user-attachments/assets/b122836a-c9c3-46e3-a5bd-f3369b73778e)
+
 
 - Uses LangChain library for question-answering capabilities
 - Integrates with Hugging Face Hub for pre-trained models and embeddings

@@ -21,7 +21,7 @@ The current use for this bot is to provide answers to questions regarding arizon
 
 ## Technical Workflow
 
-![image](https://github.com/user-attachments/assets/6d79c439-ca05-4eed-ae1c-becc99e6cb37)
+![image](https://github.com/user-attachments/assets/dab6df60-f3bf-428f-a8af-9129464b3ac0)
 
 - The bot starts by connecting to the Qdrant vector database.
 - It then retrieves relevant documents from the database using the ASU University's search terms.

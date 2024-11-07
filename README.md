@@ -85,13 +85,13 @@ The bot can be used in Discord servers to:
 - [x]  test
 - [x]  stop initializing vector db every instance
 - [x]  create action functions and followup functions for bot to integrate the server
+- [x]  test differnet models
+- [x]  improve speed
+- [x]  have better logging in backend
 - [ ]  implement dynamic search
 - [ ]  keyword-channel search in discord for question
 - [ ]  display the ongoing actions by llm to response
-- [ ]  have better logging at every place on backend
-- [ ]  Optimize speed
 - [ ]  add asurite verification feature with faceid
-- [ ]  test differnet models
 - [ ]  data analystics board on website- request questions, steps of llm, responses, time, frequency
 - [ ]  safety feature- track or identify heated argument, formal warning in dms of people
 - [ ]  final testing
